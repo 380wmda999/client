@@ -1,2 +1,4 @@
-1.0.0
-http://client.zbbsweb.com/download.html
+{
+  "version" : "1.0.0",
+  "url" : "http://client.zbbsweb.com/download.html"
+}
