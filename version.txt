@@ -1,4 +1,4 @@
 {
-  "version" : "1.0.0",
-  "url" : "http://client.zbbsweb.com/download.html"
+  "version" : "1.0.1",
+  "url" : "https://github.com/380wmda999/client/raw/master/client.exe"
 }
