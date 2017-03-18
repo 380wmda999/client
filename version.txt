@@ -1,4 +1,4 @@
 {
-  "version" : "1.0.2",
-  "url" : "https://github.com/380wmda999/client/raw/master/client1.0.2.exe"
+  "version" : "1.0.3",
+  "url" : "https://github.com/380wmda999/client/raw/master/client1.0.3.exe"
 }
