@@ -1,4 +1,4 @@
 {
-  "version" : "2.0.11",
-  "url" : "http://client.zbbsweb.com/client2.0.11.exe"
+  "version" : "2.0.12",
+  "url" : "http://client.zbbsweb.com/client2.0.12.exe"
 }
