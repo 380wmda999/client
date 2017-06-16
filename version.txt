@@ -1,4 +1,5 @@
 {
   "version" : "2.0.12",
-  "url" : "http://client.zbbsweb.com/client2.0.12.exe"
+  "url" : "http://client.zbbsweb.com/client2.0.12.exe",
+  "text" : "提高稳定性",
 }
