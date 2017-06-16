@@ -1,5 +1,5 @@
 {
-    "version": "2.0.12",
-    "url": "http://client.zbbsweb.com/client2.0.12.exe",
-    "text": "1.提高稳定性\r\n2.修正http长连接的一个错误"
+    "version": "2.0.13",
+    "url": "http://client.zbbsweb.com/client2.0.13.exe",
+    "text": "1.提高稳定性\r\n2.修正http长连接的一个错误\r\n3.更快的网速体验"
 }
