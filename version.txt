@@ -1,5 +1,5 @@
 {
 "version": "2.0.15",
-"url": "http://client.zbbsweb.com/client2.0.14.exe",
+"url": "http://client.zbbsweb.com/client2.0.15.exe",
 "text": "1.增加了免费的测试服务器\r\n2.新增加了一个协议,更安全\r\n3.更快的网速体验你值得一试\r\n有什么问题,请及时反馈"
 }
