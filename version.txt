@@ -1,5 +1,5 @@
 {
-"version": "2.0.21",
-"url": "http://client.zbbsweb.com/client/client2.0.21.exe",
-"text": "1.优化关机之后重启不能上网bug\r\n2.提高稳定性\r\n3.更快的网速体验你值得一试\r\n有什么问题,请及时反馈"
+"version": "2.0.22",
+"url": "http://client.zbbsweb.com/client/client2.0.22.exe",
+"text": "1.细节优化\r\n有什么问题,请及时反馈"
 }
