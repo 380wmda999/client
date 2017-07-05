@@ -1,5 +1,5 @@
 {
-"version": "2.0.22",
-"url": "http://client.zbbsweb.com/client/client2.0.22.exe",
-"text": "1.细节优化\r\n有什么问题,请及时反馈"
+"version": "2.0.23",
+"url": "http://client.zbbsweb.com/client/client2.0.23.exe",
+"text": "1.更加稳定 强烈推荐升级\r\n有什么问题,请及时反馈"
 }
