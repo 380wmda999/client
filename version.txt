@@ -1,5 +1,5 @@
 {
-"version": "2.0.23",
-"url": "http://client.zbbsweb.com/client/client2.0.23.exe",
-"text": "1.更加稳定 强烈推荐升级\r\n有什么问题,请及时反馈"
+"version": "2.0.24",
+"url": "http://client.zbbsweb.com/client/client2.0.24.exe",
+"text": "1.修复vip登陆以后 无法切换线路的问题\r\n有什么问题,请及时反馈"
 }
