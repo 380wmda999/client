@@ -1,5 +1,5 @@
 {
-"version": "2.0.26",
-"url": "http://client.zbbsweb.com/client/client2.0.26.exe",
-"text": "1.修正系统代理设置的问题\r\n2 更加稳定了\r\n有什么问题,请及时反馈"
+"version": "2.0.27",
+"url": "http://client.zbbsweb.com/client/client2.0.27.exe",
+"text": "1.修复一个登陆的bug\r\n2 更加稳定了\r\n有什么问题,请及时反馈"
 }
