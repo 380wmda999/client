@@ -1,5 +1,5 @@
 {
-"version": "2.1.1",
-"url": "http://client.zbbsweb.com/client/client2.1.1.exe",
+"version": "2.1.2",
+"url": "http://client.zbbsweb.com/client/client2.1.2.exe",
 "text": "1.增加了程序的稳定性,程序更加稳定,速度更快，强力推荐更新！！！\r\n有什么问题,请及时反馈"
 }
