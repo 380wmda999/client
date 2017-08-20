@@ -1,5 +1,5 @@
 {
-"version": "2.1.2",
-"url": "http://client.zbbsweb.com/client/client2.1.2.exe",
-"text": "1.增加了程序的稳定性,程序更加稳定,速度更快，强力推荐更新！！！\r\n有什么问题,请及时反馈"
+"version": "2.1.3",
+"url": "http://client.zbbsweb.com/client/client2.1.3.exe",
+"text": "1.此为该版本的最后一个版本 以后没什么大问题 我不会更新\r\n 修复了一些细节上的问题,对win7及以上程序支持非常好\r\n 如果遇到什么问题 请及时查看日志 或者切换线路 \r\n有什么问题,请及时反馈"
 }
