@@ -1,5 +1,5 @@
 {
-"version": "2.2.1",
-"url": "http://client.zbbsweb.com/client/client2.2.1.exe",
+"version": "2.2.2",
+"url": "http://client.zbbsweb.com/client/client2.2.2.exe",
 "text": "1.更好的代理方式 网速比以前更快\r\n2.对windows xp用户支持不是很好 \r\n3.此版本为终极版本,以后基本不会更新了\r\n 如果遇到什么问题 请及时查看日志 或者切换线路"
 }
