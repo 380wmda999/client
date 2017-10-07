@@ -1,5 +1,5 @@
 {
-"version": "2.2.6",
-"url": "http://client.zbbsweb.com/client/client2.2.6.exe",
+"version": "2.2.7",
+"url": "http://client.zbbsweb.com/client/client2.2.7.exe",
 "text": "1.切换回原来的 设置系统代理的方式 而不是使用第三方软件\r\n 如果觉得这个版本不好用 可以继续使用2.2.5版本"
 }
