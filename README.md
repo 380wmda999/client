@@ -1,7 +1,8 @@
 client2.6.14.exe 是ss/ssr的客户端
 
 client13.x.exe是基于 Cloudflare Cdn的代理解决方案
-网速单连接最高可达近100M(因为我这里是100m的宽带 所以...):
+
+单连接网速测速结果(因为我这里是100m的宽带 所以...):
 https://www.speedtest.net/result/11204423360
 
 
