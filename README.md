@@ -11,6 +11,5 @@ https://www.speedtest.net/result/11204423360
 
 使用被墙的域名+Cloudflare的ip实现 高速稳定
 
-目前只实现了windows和mac版本的  
+实现了windows,mac,linux和安卓版本
 
-手机版代码由于不精通 正在研究中...
