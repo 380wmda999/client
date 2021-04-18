@@ -12,4 +12,5 @@ https://www.speedtest.net/result/11204423360
 使用被墙的域名+Cloudflare的ip实现 高速稳定
 
 实现了windows,mac,linux和安卓版本
-
+下载地址:
+https://client.zsskxsw.com/download.html
