@@ -14,5 +14,7 @@ https://www.speedtest.net/result/11204423360
 实现了windows,mac,linux和安卓版本
 下载地址:
 https://client.zsskxsw.com/download.html
+
+
 免费版下载地址
 https://client.zsskxsw.com/free.html
