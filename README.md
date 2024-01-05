@@ -1,9 +1,5 @@
-client 全平台客户端发布地址
-高速翻墙 科学上网
-
-
-其中cdn版本 使用被墙的域名+Cloudflare的ip实现 高速稳定
-
+zssclient 全平台客户端发布地址
+高速翻墙 科学上网 一线技术 稳定运行
 
 下载地址:
 https://client.zsskxsw.com/download.html
