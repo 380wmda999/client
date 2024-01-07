@@ -3,12 +3,12 @@ zssclient 全平台客户端发布地址 <br>
 实测 youtube  观看4k视频 网速可达100M/s <br>
 有任何问题/疑问 可以发送邮件:yaopenggeek@gmail.com <br>
  <br>
+下面的地址国内是打不开的 最新的软件会在这个页面更新 直接下载上面的文件也一样 .exe 为windows系统 .apk安卓手机的安装包 client-cdn-mac苹果电脑
 下载地址: <br>
-https://client.zsskxsw.com/download.html <br>
- <br>
+https://client.zsskxsw.com/download.html<br>
  <br>
 windows体验版下载地址 <br>
-https://client.zsskxsw.com/free.html <br>
+https://client.zsskxsw.com/free.html<br>
  <br>
 使用方式: <br>
 windows:  <br>
