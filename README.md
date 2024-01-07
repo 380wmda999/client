@@ -1,5 +1,5 @@
 zssclient 全平台客户端发布地址 <br>
-高速翻墙 科学上网 <br>
+高速浏览 科学上网 <br>
 实测 youtube  观看4k视频 网速可达100M/s <br>
 有任何问题/疑问 可以发送邮件:yaopenggeek@gmail.com <br>
  <br>
