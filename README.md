@@ -13,9 +13,6 @@ zclient 全平台客户端发布地址 <br>
 下载地址: <br>
 https://client.zsskxsw.com/download.html<br>
  <br>
-windows体验版下载地址 <br>
-https://client.zsskxsw.com/free.html<br>
- <br>
 使用方式: <br>
 windows:  <br>
 直接打开 exe即可 会自动设置http代理到浏览器 打开浏览器就可以自由浏览量  <br>
