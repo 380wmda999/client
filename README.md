@@ -15,8 +15,9 @@ https://client.zsskxsw.com/download.html<br>
  <br>
 使用方式: <br>
 windows:  <br>
-直接打开 exe即可 会自动设置http代理到浏览器 打开浏览器就可以自由浏览量  <br>
-如果想要用全局/vpn 模式 可以下载 Proxifier(自己去网上下载绿色版之类的 使用方式网上也有) 然后设置socks5 代理即可 <br>
+windows目前有两个版本
+浏览器代理版本:对应文件 client_cdn*.exe 顾名思义 只代理浏览器的请求 其他软件无法使用代理
+vpn版本:对应文件 client_vpn*.exe vpn网卡模式 根据系统的路由配置 进行网络请求 可转发任意流量
  <br>
 安卓手机: <br>
 安装 打开软件即可 软件会启动一个vpn网关 所有流量都会自动通过vpn进行转发<br>
