@@ -1,4 +1,5 @@
 zclient 全平台客户端发布地址 <br>
+
 高速浏览youtube google facebook twitter等国际知名网站 科学上网 <br>
 自软件诞生 已稳定运行3年+ 协议稳定且加密 <br>
 本软件在1G以下的宽带完全可以达到网速上限 也就是最高浏览外网的网速能达到128M/s 且可突破单机最多65535连接数的限制(当然这在客户端可能用处不大 但如果是服务端的话 就能极大加大代理服务器的并发数) <br>
@@ -14,14 +15,17 @@ zclient 全平台客户端发布地址 <br>
 https://client.zsskxsw.com/download.html<br>
  <br>
 使用方式: <br>
+
 windows:  <br>
 windows目前有两个版本
 浏览器代理版本:对应文件 client_cdn*.exe 顾名思义 只代理浏览器的请求 其他软件无法使用代理
 vpn版本:对应文件 client_vpn*.exe vpn网卡模式 根据系统的路由配置 进行网络请求 可转发任意流量
  <br>
+ 
 安卓手机: <br>
 安装 打开软件即可 软件会启动一个vpn网关 所有流量都会自动通过vpn进行转发<br>
  <br>
+ 
 苹果电脑: <br>
 下载软件 重命名为 client_mac <br>
 终端 执行命令 sudo +x client_mac && sudo ./client_mac <br>
