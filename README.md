@@ -19,7 +19,7 @@ https://client.zsskxsw.com/download.html<br>
 windows:  <br>
 windows目前有两个版本
 浏览器代理版本:对应文件 client_cdn*.exe 顾名思义 只代理浏览器的请求 其他软件无法使用代理
-vpn版本:对应文件 client_vpn*.exe vpn网卡模式 根据系统的路由配置 进行网络请求 可转发任意流量
+tun版本:对应文件 client_tun*.exe tun网卡模式 根据系统的路由配置 进行网络请求 可转发任意流量
  <br>
  
 安卓手机: <br>
