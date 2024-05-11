@@ -11,7 +11,7 @@ https://www.speedtest.net/result/16223926703
 <br>
 有任何问题/疑问<br>可以发送邮件:domainnmaster@gmail.com <br>
  <br>
-下面的地址国内是打不开的(在软件启动的情况下才能打开 不需要登陆 只需要软件到登陆界面就能打开) 最新的软件会在这个页面更新 直接下载上面的文件也一样 
+最新的软件会在这个页面更新 直接下载上面的文件也一样 
 <br>.exe 为windows系统 .apk安卓手机的安装包 client-cdn-mac苹果电脑<br>
 下载地址: <br>
 https://client.zsskxsw.com/download.html<br>
@@ -29,7 +29,5 @@ tun版本:对应文件 client_tun*.exe tun网卡模式 根据系统的路由配�
  <br>
  
 苹果电脑: <br>
-下载软件 重命名为 client_mac <br>
-终端 执行命令 sudo +x client_mac && sudo ./client_mac <br>
 方式同windows差不多 也是设置系统代理到软件监听的http代理地址
  <br>
