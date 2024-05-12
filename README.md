@@ -9,6 +9,7 @@ zclient 全平台客户端发布地址 <br>
 https://www.speedtest.net/result/16223926703
 ![image](https://github.com/380wmda999/client/assets/8896163/eb687934-42bf-4053-b334-1cf34782cdf9)
 <br>
+图上测速延迟较高 因为是美国 距离较远 客户端也有低延迟的香港线路(延迟50毫秒以内)<br>
 有任何问题/疑问<br>可以发送邮件:domainnmaster@gmail.com <br>
  <br>
 最新的软件会在这个页面更新 直接下载上面的文件也一样 
