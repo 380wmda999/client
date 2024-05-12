@@ -9,7 +9,7 @@ zclient 全平台客户端发布地址 <br>
 https://www.speedtest.net/result/16223926703
 ![image](https://github.com/380wmda999/client/assets/8896163/eb687934-42bf-4053-b334-1cf34782cdf9)
 <br>
-低延迟线路单线程测速:(延迟50毫秒以内)<br>
+香港100M单线程测速:<br>
 https://www.speedtest.net/result/16240994023
 <br>
 有任何问题/疑问<br>可以发送邮件:domainnmaster@gmail.com <br>
