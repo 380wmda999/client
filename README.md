@@ -5,11 +5,13 @@ zclient 全平台客户端发布地址 <br>
 本软件在1G以下的宽带完全可以达到网速上限 <br>
 实测本机500M的带宽 单线程都能跑到300M+  多线程轻松跑满500M <br>
 以下是speedtest.net的测试结果:测试模式:全局 测试线路:美国8 测试日期:2024年5月8日 <br>
-单线程测速: <br>
+美国单线程测速: <br>
 https://www.speedtest.net/result/16223926703
 ![image](https://github.com/380wmda999/client/assets/8896163/eb687934-42bf-4053-b334-1cf34782cdf9)
 <br>
-图上测速延迟较高 因为是美国 距离较远 客户端也有低延迟的香港线路(延迟50毫秒以内)<br>
+低延迟线路单线程测速:(延迟50毫秒以内)<br>
+https://www.speedtest.net/result/16240994023
+<br>
 有任何问题/疑问<br>可以发送邮件:domainnmaster@gmail.com <br>
  <br>
 最新的软件会在这个页面更新 直接下载上面的文件也一样 
