@@ -3,7 +3,7 @@ zclient 全平台客户端发布地址 <br>
 高速浏览google youtube facebook等国际知名网站 科学上网 <br>
 实测本机500M的带宽 单线程能跑到300M+  多线程轻松跑满500M <br>
 以下是speedtest.net的测试结果:测试模式:全局 测试线路:美国8 测试日期:2024年5月8日 <br>
-美国单线程测速: <br>
+美国单线程测速(我这里上行只有30M): <br>
 https://www.speedtest.net/result/16223926703
 ![image](https://github.com/380wmda999/client/assets/8896163/eb687934-42bf-4053-b334-1cf34782cdf9)
 <br>
