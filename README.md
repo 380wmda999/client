@@ -21,12 +21,13 @@ https://client.zsskxsw.com/download.html<br>
 
 windows:  <br>
 windows目前有两个版本<br>
-浏览器代理版本:对应文件zclient_15.*_amd64_v0.zip 顾名思义 仅开启http代理 设置系统代理处理来自浏览器的网络请求 其他软件需要三方软件将请求按照指定协议转发才能处理 
+浏览器代理版本:对应文件zclient_15.x.x_amd64_v0.zip x.x为版本号 此版本仅开启http代理 设置系统代理处理来自浏览器的网络请求 其他软件需要三方软件将请求按照指定协议转发才能处理 
 <br><br>
-tun版本:对应文件 zclient_tun20.*_amd64_v0.zip tun网卡模式 创建虚拟网卡并设置系统路由 可以处理任意软件的流量
+tun版本:对应文件 zclient_tun20.x.x_amd64_v0.zip tun网卡模式 创建虚拟网卡并设置系统路由 可以处理任意软件的流量 功能同vpn
  <br>
  
 安卓手机: <br>
+一般国产手机都是对应文件: zclientapp-v6.x-arm64-v8a-release.apk 也就是arm64-v8a 这个架构 
 下载安装 然后直接打开 登录 选择完线路 就可以使用了 全程无任何复杂的操作<br>
  <br>
  
